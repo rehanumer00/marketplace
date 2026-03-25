@@ -1,0 +1,7 @@
+project_id = "bxrozclwytdmcuuasgga"
+
+[functions.process-payment]
+verify_jwt = false
+
+[functions.reconciliation-cron]
+verify_jwt = false
